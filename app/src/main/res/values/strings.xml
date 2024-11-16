@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bookify</string>
+    <string name="amit_kumar">Betty</string>
+    <string name="username">coder</string>
+    <string name="bio">Great post! 😊 Really enjoyed reading it! 👍 Keep up the good work! 👏</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="user_information">User Information</string>
+    <string name="username_">Username</string>
+    <string name="coder">coder</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="_21">21</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="_07_02_2003">07/02/2003</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_9000000009">+91 9000000009</string>
+    <string name="email">Email</string>
+    <string name="axxxxxxa_gmail_com">axxxxxxa@gmail.com</string>
+    <string name="social_media">Social Media</string>
+</resources>

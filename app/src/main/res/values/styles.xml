@@ -1,0 +1,25 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+    <style name="RoundedImage">
+        <!-- Define the corner radius for the rounded image -->
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item> <!-- Adjust size as needed -->
+    </style>
+    <!-- Style for Circular ImageView -->
+    <style name="CircularImage">
+        <item name="shapeAppearanceOverlay">@style/CircularShape</item>
+    </style>
+
+    <!-- Shape Appearance for Circular Image -->
+    <style name="CircularShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- Makes the corners fully rounded -->
+    </style>
+
+
+    <style name="CircularShapeAppearance" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
